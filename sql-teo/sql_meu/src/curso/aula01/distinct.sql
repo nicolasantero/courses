@@ -1,0 +1,4 @@
+SELECT DISTINCT descCountry
+
+FROM TB_PLAYERS
+

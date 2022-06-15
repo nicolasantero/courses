@@ -1,0 +1,5 @@
+daria pra ver por exemplo se com uma arma específica a galera dá mais HS
+
+qual dia da semana historicamente possui maior usuarios ativos (dap)
+
+exercicio pra galera, verificar se em dia de feriados nacionais o dap aumenta consideravelmente
